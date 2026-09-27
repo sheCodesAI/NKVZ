@@ -1,0 +1,6 @@
+{
+  "name": "Bharat EntityGraph - Business Entity Resolution Platform",
+  "description": "Reconstructing Business Identity from Fragmented Multi-Vendor Data under Precision-Heavy Macro F0.5 Optimization for Amazon ML Challenge 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
